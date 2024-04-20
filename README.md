@@ -4,7 +4,7 @@ A bullshit script based on python to play videos in Zhihuishu automatically.
 
 Zhihuishu means https://www.zhihuishu.com/.
 
-It's a bullshit markdown, I'll rewrite it later.
+代码当前不完善
 
 How to use?
 1.install selenium
